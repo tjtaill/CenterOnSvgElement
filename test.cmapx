@@ -1,0 +1,4 @@
+<map id="test_map" name="test_map">
+<area shape="rect" id="id1" href="42" title="42" alt="" coords="28,52,72,75"/>
+<area shape="rect" id="id2" href="42" title="42" alt="" coords="81,82,148,105"/>
+</map>

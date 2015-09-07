@@ -1,0 +1,7 @@
+@startuml
+A -> B : [[1]] Hello
+B -> C : [[2]] Jonathan
+C -> D : [[3]] Thanks
+D -> E : [[4]] Helping
+E -> F : [[5]] Me
+@enduml
